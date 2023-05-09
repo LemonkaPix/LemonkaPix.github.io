@@ -1,0 +1,74 @@
+/* Resetowanie domyślnych styli */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Ogólne style dla strony */
+  body {
+    background-color: #474e5d;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+  }
+  
+  /* Stylizacja baneru */
+  .banner {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .banner h1 {
+    font-size: 36px;
+  }
+
+  .banner img{
+    height: 24px;
+  }
+  
+  /* Stylizacja nawigacji */
+  nav {
+    background-color: #555;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Stylizacja sekcji głównej */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Stylizacja stopki */
+  footer {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+

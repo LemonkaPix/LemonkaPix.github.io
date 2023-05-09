@@ -1,0 +1,33 @@
+-=========================================================== POMYSŁ ============================================================-
+Symulacja zegarów: Wykorzystaj swoje umiejętności programistyczne, aby stworzyć symulację działania różnych rodzajów zegarów. 
+Możesz zaimplementować algorytmy matematyczne i fizyczne, które opisują ruch wskazówek, a następnie umożliwić użytkownikom 
+eksperymentowanie z różnymi parametrami i zobaczenie, jak zmienia się zachowanie zegara.
+-===============================================================================================================================-
+
+
+1. Wyszukaj najważniejsze daty z historii zegarów i przedstaw je na osi czasu. 
+Zaznacz na niej - dla porównania - także znane wydarzenia z historii politycznej i historii kultury.
+
+Daty zegarów:
+- 1500 p.n.e.   W Heliopolis powstają tzw. iglice Kleopatry.
+- 630 p.n.e.    W Asyrii zbudowano publiczne zegary wodne.
+- 1364  Giovanni da Dondi wydał pierwszy szczegółowy opis mechanizmu zegarowego.
+- 1450  Wynaleziono zegar z napędem sprężynowym.
+- 1510  Peter Henlein wynalazł zegarek kieszonkowy.
+- 1657  Christian Huygens i Aleksander Antoni Kochański wynaleźli zegar wahadłowy.
+- 1676  Daniel Quare i Robert Hooke wynaleźli wskazówkę minutową i wychwyt hakowy do zegarów wahadłowych.
+- 1695  Thomas Tompion opracował wychwyt cylindrowy.
+- 1726  John Harrison zastosował wahadło z kompensacją temperaturową.
+- 1927  Wynaleziono zegar kwarcowy.
+
+Daty polski:
+- 966  Chrzest Polski 
+- 1364 założenie Akademii Krakowskiej
+- 1791 uchwalenie Konstytucji 3 maja
+- 1655 potop szwedzki
+- 1863 wybuch powstania styczniowego
+- 1914 wybuch I wojny światowej
+- 1978 Karol Wojtyła został papieżem
+- 1981 wprowadzenie stanu wojennego
+- 1995 denominacja złotówki
+- 2004 wejście Polski do Unii Europejskiej
