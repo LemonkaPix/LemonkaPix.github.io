@@ -10,6 +10,7 @@
     background-color: #474e5d;
     font-family: Arial, sans-serif;
     line-height: 1.5;
+    height: 100%;
   }
   
   /* Stylizacja baneru */
@@ -52,6 +53,7 @@
   /* Stylizacja sekcji głównej */
   main {
     padding: 20px;
+    min-height: 500px;
   }
   
   section {

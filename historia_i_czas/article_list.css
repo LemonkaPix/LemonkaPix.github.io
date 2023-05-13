@@ -1,0 +1,33 @@
+.link-list {
+    list-style: none;
+    padding: 0;
+    margin: 5px;
+    float: left; 
+    width: 49%;
+  }
+  .link-list a
+  {
+    text-decoration: none;
+  }
+  
+  .link-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: #333333;
+    border-radius: 6px;
+    padding: 5px;
+  }
+  
+  .link-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border-radius: 6px;
+  }
+  
+  .link-title {
+    font-weight: bold;
+    font-size: large;
+    color:rgb(210, 210, 210);
+  }

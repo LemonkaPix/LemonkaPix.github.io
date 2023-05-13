@@ -1,33 +1,42 @@
-/* Stylizacja sekcji artykułu */
-.article {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 30px;
-  }
-  
-  .article-image {
-    flex-basis: 45%;
-  }
-  
-  .article-image img{
-    border-radius: 6px;
-  }
-
-  .article-content {
-    flex-basis: 45%;
-    border-radius: 6px;
-    background-color: antiquewhite;
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
     padding: 20px;
-  }
-  
-  .article h2 {
-    font-size: 24px;
-    margin-bottom: 10px;
-  }
-  
-  .article p {
-    font-size: 16px;
-    line-height: 1.5;
-  }
+    background-color: antiquewhite;
+    border-radius: 6px;
+}
 
-  
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.image {
+    flex: 1;
+    margin-right: 20px;
+    padding: 5px;
+    text-align: center;
+    font-size: small;
+}
+
+.image img {
+    max-width: 100%;
+    margin-top: 10px;
+}
+
+.text {
+    flex: 2;
+}
+
+p{
+    margin: 10px;
+}
+hr{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
